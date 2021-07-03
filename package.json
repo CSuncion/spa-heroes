@@ -1,6 +1,8 @@
 {
   "name": "spa",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +11,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^6.1.10",
     "@angular/common": "^6.1.10",
@@ -27,6 +28,8 @@
     "rxjs": "6.0.0",
     "zone.js": "^0.8.29"
   },
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.6.8",
     "@angular/cli": "^6.0.8",
